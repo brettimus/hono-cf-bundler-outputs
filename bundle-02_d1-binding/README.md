@@ -1,0 +1,1 @@
+This folder contains the built output assets for the worker "hono-cf-bundle-test" generated at 2025-04-09T09:55:35.532Z.
